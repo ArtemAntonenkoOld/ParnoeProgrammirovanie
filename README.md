@@ -1,2 +1,0 @@
-# ParnoeProgrammirovanie
-t
