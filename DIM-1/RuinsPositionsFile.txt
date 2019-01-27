@@ -34,8 +34,8 @@
 38 39 172 41 43 174 SkeletonHeadStatue.tml
 64 126 -318 67 132 -314 StonePillar.tml
 86 126 79 96 131 89 RuinedSmallFountainDiagonal.tml
-95 126 247 100 129 254 PumpkinField.tml
 95 128 168 108 160 181 OreSpire.tml
+95 126 247 100 129 254 PumpkinField.tml
 127 128 -57 140 137 -44 VolcanicVent.tml
 137 126 -186 142 129 -179 Melonfield.tml
 165 127 276 173 135 287 MinersHut.tml
