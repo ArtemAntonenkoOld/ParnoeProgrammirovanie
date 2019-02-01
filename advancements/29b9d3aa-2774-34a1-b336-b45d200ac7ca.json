@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-02-01 22:14:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-01-02 21:17:02 +0200"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-02-01 21:11:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2018-12-29 15:36:49 +0200"
@@ -176,6 +188,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-01-02 17:21:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-02-01 19:53:09 +0200"
     },
     "done": true
   },
@@ -221,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2019-02-01 17:36:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2019-01-02 21:27:25 +0200"
@@ -260,6 +284,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2019-01-02 20:45:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-02-01 17:27:37 +0200"
     },
     "done": true
   },
@@ -518,6 +548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-02-01 17:27:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-01-03 21:43:11 +0200"
@@ -601,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-02-01 17:36:53 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/golden_cutlass": {
     "criteria": {
       "has_item": "2019-01-02 18:24:18 +0200"
@@ -664,6 +706,12 @@
   "dungeontactics:recipes/misc/ration": {
     "criteria": {
       "has_item": "2019-01-02 17:54:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-02-01 19:53:09 +0200"
     },
     "done": true
   },
@@ -823,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-02-01 17:27:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-01-02 17:20:58 +0200"
@@ -877,9 +931,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-02-01 18:16:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-02-01 17:27:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-02-01 17:27:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2019-01-02 17:55:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2019-02-01 17:36:53 +0200"
     },
     "done": true
   },
@@ -934,6 +1012,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-01-03 21:42:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2019-02-01 21:11:14 +0200"
     },
     "done": true
   },
@@ -1007,12 +1091,16 @@
     "criteria": {
       "forest": "2019-01-03 22:57:11 +0200",
       "swampland": "2019-01-03 23:18:00 +0200",
+      "birch_forest": "2019-02-01 17:40:20 +0200",
       "deep_ocean": "2019-01-02 19:38:05 +0200",
       "beaches": "2019-01-02 19:34:48 +0200",
       "desert_hills": "2019-01-02 17:22:13 +0200",
       "forest_hills": "2019-01-03 23:00:31 +0200",
       "plains": "2018-12-29 15:31:57 +0200",
       "savanna": "2019-01-02 17:42:46 +0200",
+      "savanna_rock": "2019-02-01 20:21:18 +0200",
+      "taiga": "2019-02-01 18:01:27 +0200",
+      "taiga_hills": "2019-02-01 18:05:44 +0200",
       "ocean": "2019-01-02 19:34:49 +0200",
       "extreme_hills": "2019-01-03 23:11:29 +0200",
       "roofed_forest": "2019-01-03 23:05:35 +0200",
@@ -1127,6 +1215,12 @@
   "computercraft:recipes/advanced_pocket_computer": {
     "criteria": {
       "has_apple": "2019-01-02 18:22:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-02-01 21:11:14 +0200"
     },
     "done": true
   },
@@ -1253,6 +1347,12 @@
   "dungeontactics:recipes/weapons/stone_glaive": {
     "criteria": {
       "has_item": "2018-12-29 15:36:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2019-02-01 21:11:14 +0200"
     },
     "done": true
   },
@@ -1732,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-02-01 18:16:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-02 17:41:07 +0200"
@@ -1741,6 +1847,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-01-02 17:51:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-02-01 17:36:53 +0200"
     },
     "done": true
   },
@@ -1985,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-02-01 17:27:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-01-02 18:22:32 +0200"
@@ -2081,6 +2199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-02-01 19:53:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2019-01-02 17:55:12 +0200"
@@ -2123,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-02-01 19:53:09 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/coal_from_ash": {
     "criteria": {
       "has_gem_block": "2019-01-02 21:14:25 +0200"
@@ -2135,6 +2265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2019-02-01 21:13:40 +0200"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/trap_plate": {
     "criteria": {
       "has_item": "2019-01-02 19:33:01 +0200"
@@ -2144,6 +2280,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-01-02 18:24:18 +0200"
+    },
+    "done": true
+  },
+  "buildcraftenergy:fine_riches": {
+    "criteria": {
+      "oil_desert_biome": "2019-02-01 22:29:37 +0200"
     },
     "done": true
   },
@@ -2282,6 +2424,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-02 17:41:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2019-02-01 17:36:53 +0200"
     },
     "done": true
   },

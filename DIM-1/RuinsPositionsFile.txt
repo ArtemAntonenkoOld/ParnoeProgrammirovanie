@@ -9,16 +9,22 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-615 126 21 -605 131 31 RuinedSmallFountainDiagonal.tml
+-584 127 369 -576 135 380 MinersHut.tml
+-573 126 186 -566 130 193 TinyFarmField.tml
 -469 126 156 -462 135 163 Outcrop.tml
 -466 84 -253 -463 88 -251 SkeletonHeadStatue.tml
 -459 126 244 -455 132 247 StonePillar.tml
 -431 68 -180 -427 70 -176 EmeraldOreOutcrop.tml
 -408 123 58 -400 140 84 shipwreck.tml
+-403 126 446 -398 129 453 PumpkinField.tml
 -337 127 186 -334 131 188 SkeletonHeadStatue.tml
 -334 36 -215 -327 45 -208 Outcrop.tml
 -316 53 -106 -313 57 -103 StoneGrill.tml
 -280 126 80 -270 131 90 RuinedSmallFountainDiagonal.tml
+-261 126 343 -251 135 355 StoneHouseMruined.tml
 -202 126 164 -199 130 167 StoneGrill.tml
+-150 126 381 -134 139 393 Barn-intact.tml
 -135 36 -297 -131 38 -293 EmeraldOreOutcrop.tml
 -115 126 50 -108 135 57 Outcrop.tml
 -106 126 176 -99 130 183 TinyFarmField.tml
@@ -28,6 +34,7 @@
 -38 128 305 -34 130 309 EmeraldOreOutcrop.tml
 -24 126 -359 -17 130 -352 TinyFarmField.tml
 -19 126 99 -4 134 108 Archway.tml
+-7 128 428 2 139 439 ArrowTrapTomb.tml
 5 127 -139 13 135 -128 MinersHut.tml
 17 126 221 20 132 225 StonePillar.tml
 35 126 -51 50 134 -36 Mausoleum.tml
