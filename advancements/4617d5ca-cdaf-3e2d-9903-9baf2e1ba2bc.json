@@ -480,6 +480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-02 22:00:53 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/advanced_computer": {
     "criteria": {
       "has_redstone": "2019-01-18 16:06:30 +0200"
@@ -1311,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-02 22:00:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2019-01-18 17:54:56 +0200"
@@ -1449,6 +1461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-02 22:00:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2019-01-31 22:06:13 +0200"
@@ -1512,6 +1530,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2019-01-18 16:06:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-02 22:00:53 +0200"
     },
     "done": true
   },
@@ -2588,6 +2612,12 @@
   "dungeontactics:recipes/weapons/gilded_hammer": {
     "criteria": {
       "has_item": "2019-01-18 17:03:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2019-02-02 21:54:38 +0200"
     },
     "done": true
   },
