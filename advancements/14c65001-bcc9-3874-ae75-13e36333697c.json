@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-02-02 17:25:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-01-26 19:32:19 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/diamond_cutlass": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-02-02 17:25:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-01-26 19:34:17 +0200"
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/jewelled_battleaxe": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2019-01-26 19:34:17 +0200"
@@ -164,6 +188,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2019-01-31 21:51:21 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/jewelled_pick": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -209,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-01-26 20:23:12 +0200"
@@ -236,6 +272,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2019-01-26 19:43:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -307,9 +349,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2019-02-02 16:53:25 +0200",
       "cooked_cod": "2019-01-30 20:31:30 +0200",
       "melon": "2019-01-31 21:51:23 +0200",
+      "golden_apple": "2019-02-02 17:26:23 +0200",
       "cookie": "2019-01-27 21:24:13 +0200",
+      "rotten_flesh": "2019-02-02 16:55:37 +0200",
+      "cooked_rabbit": "2019-02-02 17:28:21 +0200",
       "cooked_chicken": "2019-01-27 17:28:27 +0200"
     },
     "done": false
@@ -326,9 +372,21 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/diamond_battleaxe": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-01-26 19:32:19 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_cutlass": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -383,6 +441,12 @@
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2019-01-26 22:09:18 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_knife": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -512,9 +576,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-02-02 17:26:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2019-01-27 19:51:14 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_shield": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -527,6 +603,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-01-31 22:25:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -584,6 +666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-01-26 20:17:47 +0200"
@@ -635,6 +723,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2019-01-26 19:43:23 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/jewelled_hoe": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -692,6 +786,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/jewelled_glaive": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-26 20:03:34 +0200"
@@ -722,6 +822,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-01-26 20:33:10 +0200"
@@ -745,6 +857,12 @@
       "creeper": "2019-01-27 17:22:49 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -800,6 +918,18 @@
     },
     "done": true
   },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "trophy": "2019-02-02 15:48:10 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2019-01-26 19:38:52 +0200"
@@ -815,6 +945,12 @@
   "computercraft:recipes/speaker": {
     "criteria": {
       "has_noteblock": "2019-02-01 21:55:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -842,6 +978,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/jewelled_armour": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-26 20:03:34 +0200"
@@ -857,6 +999,12 @@
   "dungeontactics:recipes/weapons/grenades": {
     "criteria": {
       "has_item": "2019-01-27 17:22:49 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/diamond_knife": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -902,6 +1050,18 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/jewelled_shovel": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-02-02 17:26:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_the_recipe": "2019-01-27 21:16:48 +0200"
@@ -920,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2019-01-26 22:03:58 +0200"
@@ -935,6 +1101,12 @@
   "dungeontactics:recipes/weapons/wooden_cutlass": {
     "criteria": {
       "has_item": "2019-01-26 19:38:52 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_hammer": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -965,6 +1137,12 @@
   "computercraft:recipes/normal_computer": {
     "criteria": {
       "has_redstone": "2019-01-26 20:26:21 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_sword": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -1064,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2019-02-02 17:54:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-01-26 20:03:34 +0200"
@@ -1082,9 +1266,21 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/diamond_cestus": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-01-31 22:21:50 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/jewelled_cestus": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -1166,6 +1362,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/diamond_hammer": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2019-01-26 19:34:17 +0200"
@@ -1211,6 +1413,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-01-31 21:13:31 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/jewelled_axe": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -1343,6 +1551,12 @@
   "dungeontactics:recipes/weapons/iron_battleaxe": {
     "criteria": {
       "has_item": "2019-01-26 20:23:12 +0200"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/diamond_shield": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },
@@ -1526,6 +1740,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/diamond_glaive": {
+    "criteria": {
+      "has_item": "2019-02-02 16:15:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-01-26 19:32:19 +0200"
@@ -1547,6 +1767,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2019-01-31 21:13:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-02-02 16:15:37 +0200"
     },
     "done": true
   },

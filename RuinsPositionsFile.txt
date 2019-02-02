@@ -115,6 +115,7 @@
 -6566 77 -150 -6564 81 -147 SkeletonHeadStatue.tml
 -6564 84 -557 -6559 90 -552 CaveSpiderBurrow.tml
 -6545 67 -779 -6535 72 -769 RuinedSmallFountainDiagonal.tml
+-6537 72 -428 -6534 76 -425 StoneGrill.tml
 -6529 68 -698 -6522 72 -691 TinyFarmField.tml
 -6490 79 -536 -6477 111 -523 OreSpire.tml
 -6470 67 -894 -6466 73 -891 StonePillar.tml
@@ -141,6 +142,7 @@
 -6023 65 -636 -6019 67 -632 EmeraldOreOutcrop.tml
 -6021 49 670 -6013 66 696 shipwreck.tml
 -6012 45 -140 -6004 62 -114 shipwreck.tml
+-5974 41 -421 -5948 58 -413 shipwreck.tml
 -5958 77 -957 -5954 79 -953 EmeraldOreOutcrop.tml
 -5957 74 525 -5950 77 530 Melonfield.tml
 -5930 67 -501 -5927 73 -497 StonePillar.tml
@@ -154,6 +156,7 @@
 -5768 64 -653 -5753 72 -638 Mausoleum.tml
 -5658 64 -599 -5654 66 -595 EmeraldOreOutcrop.tml
 -5645 44 -956 -5609 68 -945 SunkenShip-v2.tml
+-5627 62 -482 -5624 66 -479 StoneGrill.tml
 -5625 81 -835 -5610 89 -826 Archway.tml
 -5621 43 -397 -5595 60 -389 shipwreck.tml
 -5537 47 -641 -5501 63 -630 SunkenShip-v3.tml
@@ -165,6 +168,7 @@
 -5258 40 -787 -5247 64 -751 SunkenShip-v2.tml
 -5017 41 -911 -4991 58 -903 shipwreck.tml
 -4929 42 -719 -4918 66 -683 SunkenShip-v2.tml
+-4875 28 -429 -4839 44 -418 SunkenShip-v3.tml
 -4829 42 -721 -4793 58 -710 SunkenShip-v3.tml
 -4815 70 -799 -4811 72 -795 EmeraldOreOutcrop.tml
 -4786 95 -946 -4783 99 -943 StoneGrill.tml
@@ -177,6 +181,7 @@
 -4682 75 -938 -4675 79 -931 TinyFarmField.tml
 -4680 70 2052 -4673 75 2057 ZombieHut.tml
 -4673 69 -643 -4666 74 -638 ZombieHut.tml
+-4649 63 -439 -4646 67 -437 SkeletonHeadStatue.tml
 -4640 69 -844 -4627 101 -831 OreSpire.tml
 -4637 67 1961 -4630 70 1966 Melonfield.tml
 -4601 72 -763 -4599 76 -760 SkeletonHeadStatue.tml

@@ -682,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2019-02-02 14:11:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2019-01-18 19:28:06 +0200"
@@ -1200,6 +1206,7 @@
       "redwood_taiga": "2019-02-01 18:48:51 +0200",
       "redwood_taiga_hills": "2019-02-01 18:48:48 +0200",
       "taiga_hills": "2019-02-01 18:22:55 +0200",
+      "birch_forest_hills": "2019-02-02 14:43:26 +0200",
       "ocean": "2019-01-19 19:13:49 +0200",
       "extreme_hills": "2019-02-01 18:27:32 +0200",
       "roofed_forest": "2019-02-01 18:33:10 +0200",
